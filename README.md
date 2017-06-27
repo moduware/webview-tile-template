@@ -6,7 +6,7 @@ WebView tile is a simple single page "website" that consists of bunch of HTML, C
 - manifest.json (tile description file)
 - icon.svg (icon of your tile to show on dashboard)
 
-This template also includes default folder and file structure, plus additional nexpaq relalated files to makes you developement process easier and faster. Clone or fork this repository and start your development. Everyone is also welcome to contribute and improve this template, just do a pull request.
+This template also includes default folder and file structure, plus additional nexpaq related files to make your developement process easier and faster. Clone or fork this repository and start your development. Everyone is also welcome to contribute and improve this template, just do a pull request.
 
 File structure:
 - css - folder to store your styles
@@ -20,4 +20,4 @@ File structure:
 - vendor - folder to store third party libraries, styles, etc...
 - icon.svg - tile to be displayed at dashboard
 - index.html - main html file of your tile
-- manifest.json - description of your tile, you can head more about manifests here (TODO: add link to manifest generator)  
+- manifest.json - description of your tile, you can read more about manifests here (TODO: add link to manifest generator)  
