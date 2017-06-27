@@ -1,0 +1,13 @@
+/* border-box makes things easier and we can use it by default */
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  /* Adding some space to prevent overlap with header */
+  padding-top: 60px;
+}
