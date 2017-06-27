@@ -1,16 +1,16 @@
 {
-  "id": "nexpaq.tile.alcohol-testing",
-  "name": "Air Contaminants",
-  "description": "Nexpaq Air Contaminants module interface for testing",
+  "id": "creator.tile.name",
+  "name": "New Tile",
+  "description": "This is a brand new tile",
 
-  "version": "1.0.1",
-  "changes": "Smaller package size",
-  "app_version": "1.0.3",
+  "version": "1.0.0",
+  "changes": "Changes in this version",
+  "minumumAppVersion": "1.0.0",
   "modules": [
-    "nexpaq.module.alcohol"
+    "nexpaq.module.led"
   ],
   
-  "title": "Contaminants",
+  "title": "New Tile",
   "color": "black",
-  "text_color": "white"
+  "textColor": "white"
 }

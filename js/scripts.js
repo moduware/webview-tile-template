@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
  * Actions when nexpaq API completely initialized 
  * and we can start working with it
  */
-document.addEventListener('NexpaqAPIReady', function(event) {
+document.addEventListener('NexpaqAPIReady', function() {
   /**
    * We can setup lister for received data here
    * you can remove it if your tile not receiving any data from module
