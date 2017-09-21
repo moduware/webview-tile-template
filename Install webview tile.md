@@ -27,5 +27,5 @@
 
 [itunes1]:https://github.com/nexpaq/webview-tile-template/blob/master/images/itunes1.JPG
 [itunes2]:https://github.com/nexpaq/webview-tile-template/blob/master/images/itunes2.JPG
-[tiles_MacOS]:https://github.com/nexpaq/msp430-firmware-template/blob/develop/img/compiler_instructions3.jpg
+[tiles_MacOS]:https://github.com/nexpaq/webview-tile-template/blob/master/images/tiles_MacOS.JPG
 [Tiles_Win]:https://github.com/nexpaq/webview-tile-template/blob/master/images/Tiles_Win.JPG
