@@ -9,7 +9,6 @@
 
 * Under *File Sharing* select moduware 
 * Create a folder *tiles* and a subfolder *tile*. Add all webviwew tile files 
-
 ![itunes2]
 
 * Drag and drop *tiles* folder to moduware documents
@@ -26,7 +25,7 @@
 
 * Restart moduware after installing customized tiles 
 
-[itunes1]:https://github.com/nexpaq/msp430-firmware-template/blob/develop/img/compiler_instructions_1.jpg
-[itunes2]:https://github.com/nexpaq/msp430-firmware-template/blob/develop/img/compiler_instructions_2.jpg
+[itunes1]:https://github.com/nexpaq/webview-tile-template/blob/master/images/itunes1.JPG
+[itunes2]:https://github.com/nexpaq/webview-tile-template/blob/master/images/itunes2.JPG
 [tiles_MacOS]:https://github.com/nexpaq/msp430-firmware-template/blob/develop/img/compiler_instructions3.jpg
-[Tiles_Win]:https://github.com/nexpaq/msp430-firmware-template/blob/develop/img/MSP-LaunchPad.jpg
+[Tiles_Win]:https://github.com/nexpaq/webview-tile-template/blob/master/images/Tiles_Win.JPG
