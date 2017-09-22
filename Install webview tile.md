@@ -15,9 +15,9 @@
 
 ## Android
 
-* Connect phone into computer
+* Connect phone to computer
 * Use *File Manager* or *Android File Transfer* (for Mac OS)
-* Create *nexpaq* directory at the phone's hard drive
+* Create *nexpaq* directory on phone's hard drive
 * Create folder *tile* and a subfolder *tile*. Add all webview tile files to the last directory
 
 ![tiles_MacOS]
