@@ -27,8 +27,7 @@
     * See this example of folder structure for LED RGB example, nexpaq.**tile**.example-led-rgb
     
     ![tile_folder_stucture]
-  
-* Add all webview tile files to the last directory
+    
 * Copy *tiles* folder to nexpaq folder
 
 ![tiles_MacOS]
