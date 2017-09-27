@@ -9,7 +9,7 @@
 
 * Under *File Sharing* select moduware 
 * Create a folder *tiles* and a subfolder and a subfolder for specific tile. 
-    * Subfolder tile uses reverse domain notation as following entity format: "namespace".**tile**."name" - where **tile** requiered type: 
+    * Subfolder tile uses reverse domain notation as following entity format: "namespace".**tile**."name" - where **tile** is a requiered type: 
     * See this example of folder structure for LED RGB example, nexpaq.**tile**.example-led-rgb
     
     ![tile_folder_stucture]
@@ -23,7 +23,7 @@
 * Use *File Manager* or *Android File Transfer* (for Mac OS)
 * Create *nexpaq* directory on phone's hard drive
 * Create folder *tile* and a subfolder for specific tile. 
-    * Subfolder tile uses reverse domain notation as following entity format: "namespace".**tile**."name" - where **tile** requiered type   
+    * Subfolder tile uses reverse domain notation as following entity format: "namespace".**tile**."name" - where **tile** is a requiered type   
     * See this example of folder structure for LED RGB example, nexpaq.**tile**.example-led-rgb
     
     ![tile_folder_stucture]
@@ -40,4 +40,4 @@
 [itunes2]:https://github.com/nexpaq/webview-tile-template/blob/master/images/itunes2.JPG
 [tiles_MacOS]:https://github.com/nexpaq/webview-tile-template/blob/master/images/tiles_MacOS.JPG
 [Tiles_Win]:https://github.com/nexpaq/webview-tile-template/blob/master/images/Tiles_Win.JPG
-[tile_folder_stucture]:https://github.com/nexpaq/webview-tile-template/blob/master/images/Tiles_Win.JPG
+[tile_folder_stucture]:https://github.com/nexpaq/webview-tile-template/blob/master/images/tile_folder_stucture.jpg
