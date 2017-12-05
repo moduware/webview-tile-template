@@ -9,8 +9,9 @@
 
 * Under *File Sharing* select moduware 
 * Put tile files in folder named same as tile id. 
-    * Tile id uses reverse domain notation as following entity format: "namespace".**tile**."name" - where **tile** is a requiered type: 
-    * See this example of folder structure for LED RGB example, nexpaq.**tile**.example-led-rgb
+    * Tile id uses reverse domain notation as following entity format: "namespace".**tile**."name" - where **tile** is a requiered type
+    * See this example of folder structure for LED tile, nexpaq.**tile**.led
+    ![tile_file_structure]
     * Tile folder MUST contain "manifest.json", "icon.svg" and "index.html"
     
 * Drag and drop folder with tile to moduware documents
@@ -20,22 +21,20 @@
 
 * Connect phone to computer
 * Use *File Manager* or *Android File Transfer* (for Mac OS)
-* Create *nexpaq* directory on phone's hard drive
-* Create folder *tile* and a subfolder for specific tile. 
-    * Subfolder tile uses reverse domain notation as following entity format: "namespace".**tile**."name" - where **tile** is a requiered type   
-    * See this example of folder structure for LED RGB example, nexpaq.**tile**.example-led-rgb
+* Create *moduware* directory on phone's hard drive
+* Put tile files in folder named same as tile id. 
+    * Tile id uses reverse domain notation as following entity format: "namespace".**tile**."name" - where **tile** is a requiered type
+    * See this example of folder structure for LED tile, nexpaq.**tile**.led
+    ![tile_file_structure]
+    * Tile folder MUST contain "manifest.json", "icon.svg" and "index.html"
     
-    ![tile_folder_stucture]
-    
-* Copy *tiles* folder to nexpaq folder
+* Copy tile folder into *moduware* folder
 
-![tiles_MacOS]
-![Tiles_Win]
+![moduware_folder_path_and_structure]
 
 * Restart moduware after installing customized tiles 
 
-[tiles_MacOS]:https://github.com/nexpaq/webview-tile-template/blob/master/images/tiles_MacOS.JPG
-[Tiles_Win]:https://github.com/nexpaq/webview-tile-template/blob/master/images/Tiles_Win.JPG
-[tile_folder_stucture]:https://github.com/nexpaq/webview-tile-template/blob/master/images/tile_folder_stucture.jpg
 [select_phone_itunes]:images/select_phone_in_itunes.png
 [itunes_drag_and_drop]:images/itunes_drag_and_drop.png
+[tile_file_structure]:images/tile_file_structure.png
+[moduware_folder_path_and_structure]:images/moduware_folder_path_and_structure.png
