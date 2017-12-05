@@ -11,9 +11,8 @@
 * Put tile files in folder named same as tile id. 
     * Tile id uses reverse domain notation as following entity format: "namespace".**tile**."name" - where **tile** is a requiered type
     * See this example of folder structure for LED tile, nexpaq.**tile**.led
+    
     ![tile_file_structure]
-    
-    
     * Tile folder MUST contain "manifest.json", "icon.svg" and "index.html"
     
 * Drag and drop folder with tile to moduware documents
@@ -27,9 +26,8 @@
 * Put tile files in folder named same as tile id. 
     * Tile id uses reverse domain notation as following entity format: "namespace".**tile**."name" - where **tile** is a requiered type
     * See this example of folder structure for LED tile, nexpaq.**tile**.led
+    
     ![tile_file_structure]
-    
-    
     * Tile folder MUST contain "manifest.json", "icon.svg" and "index.html"
     
 * Copy tile folder into *moduware* folder
