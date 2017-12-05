@@ -5,17 +5,16 @@
 * Connect phone to computer and open up iTunes 
 * Select phone icon and *Apps* on the left side menu
 
-![itunes1]
+![select_phone_itunes]
 
 * Under *File Sharing* select moduware 
-* Create a folder *tiles* and a subfolder and a subfolder for specific tile. 
-    * Subfolder tile uses reverse domain notation as following entity format: "namespace".**tile**."name" - where **tile** is a requiered type: 
+* Put tile files in folder named same as tile id. 
+    * Tile id uses reverse domain notation as following entity format: "namespace".**tile**."name" - where **tile** is a requiered type: 
     * See this example of folder structure for LED RGB example, nexpaq.**tile**.example-led-rgb
+    * Tile folder MUST contain "manifest.json", "icon.svg" and "index.html"
     
-    ![tile_folder_stucture]
-    
-* Drag and drop *tiles* folder to moduware documents
-![itunes2]
+* Drag and drop folder with tile to moduware documents
+![itunes_drag_and_drop]
 
 ## Android
 
@@ -35,8 +34,8 @@
 
 * Restart moduware after installing customized tiles 
 
-[itunes1]:https://github.com/nexpaq/webview-tile-template/blob/master/images/itunes1.JPG
-[itunes2]:https://github.com/nexpaq/webview-tile-template/blob/master/images/itunes2.JPG
 [tiles_MacOS]:https://github.com/nexpaq/webview-tile-template/blob/master/images/tiles_MacOS.JPG
 [Tiles_Win]:https://github.com/nexpaq/webview-tile-template/blob/master/images/Tiles_Win.JPG
 [tile_folder_stucture]:https://github.com/nexpaq/webview-tile-template/blob/master/images/tile_folder_stucture.jpg
+[select_phone_itunes]:images/select_phone_in_itunes.png
+[itunes_drag_and_drop]:images/itunes_drag_and_drop.png
